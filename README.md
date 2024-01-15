@@ -1,6 +1,7 @@
 # Todo list App
 
-<img width="483" alt="TO DO list " src="https://github.com/dartmehedi/ToDo-List-App/assets/110298614/1e297701-6583-40d7-9dda-7813765a360b">
+![image](https://github.com/dartmehedi/ToDo-List-App/assets/110298614/510b3f05-a3f1-492e-b883-e716c4d91e39)
+
 
 
 ## Getting Started
