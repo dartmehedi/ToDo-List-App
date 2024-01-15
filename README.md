@@ -4,14 +4,15 @@
 
 
 
-## Getting Started
+## Get more done, your way
 
-This project is a starting point for a Flutter application.
+Todolist is a flexible and multi-functional tool that will improve your productivity
 
-A few resources to get you started if this is your first Flutter project:
+What is Todolist?
+Todolist is a set of incredibly powerful tools to increase your productivity and organize your life. More than just a to-do list, Toodledo provides you with a place to write long notes, make custom lists, create structured outlines and track your habits. You can collaborate with friends, family or your co-workers, and we'll safely store and sync all your data to your devices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+TOODLEDO FLEXES TO FIT
+You can customize almost anything in your Toodledo settings to control what, when and how data is displayed. Easily import and export existing data from other applications, and use our powerful search tool to filter your data. We let you personalize your workspace any way you want to make you as efficient as possible.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
